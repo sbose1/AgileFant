@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/snigdhabose/Desktop/software/javax.servlet-3.0.0.v201112011016.jar" sourcepath="/var/folders/1b/9yxt042d5q71jy42__b93d300000gn/T/.org.sf.feeling.decompiler1508269184007/source/javax.servlet-3.0.0.v201112011016-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/snigdhabose/Desktop/software/javax.servlet.jsp.jar"/>
+	<classpathentry kind="lib" path="/Users/snigdhabose/Desktop/software/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="/Users/snigdhabose/Desktop/software/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/snigdhabose/Desktop/software/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/snigdhabose/Desktop/software/poi-ooxml-3.5-beta5 (1).jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
